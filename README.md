@@ -1,0 +1,2 @@
+# MRniru
+Artificial intelligence 
